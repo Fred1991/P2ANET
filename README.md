@@ -1,6 +1,7 @@
 # About Dataset
 
-A temporary repo for the P2ANET dataset.
+A temporary repo for the P2ANET dataset. \ 
+P2ANET dataset is proposed in the paper "P2ANET: A Large-Scale Benchmark for Dense Action Detection from Table Tennis Match Broadcasting Videos". \
 One Paragraph about data description goes here. You can also state why this data was collected.
 
 ## About Data collection methodology
