@@ -15,9 +15,8 @@ The video data is captured by an RGB monocular camera, and the label data is obt
 There are two identical datasets: the original dataset and the processed dataset. The original dataset is obtained from two data collections, called v1 and v2. The processed dataset summarizes these two batches of extracted frames with labels.
 
 ```
-Give examples
-Root Dir/
-    -dataset/
+P2A_dataset/
+    -origin_dataset/
         -video/
             -v1/
                 -0000000.mp4
@@ -63,7 +62,7 @@ If the data includes images or audio, you can mention the file format eg.(.svg, 
  -->
 ## Online Repository link
 
-* [DataRepository](https://www.kaggle.com/datasets) - Link to the data repository.
+* [DataRepository](百度网盘链接) - Link to the data repository.
 
 ## Authors
 
@@ -74,9 +73,3 @@ See also the list of [contributors](https://github.com/your/project/contributors
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
