@@ -1,8 +1,7 @@
 # About Dataset
 
 A temporary repo for the P2ANET dataset. \
-P2ANET dataset is proposed in the paper "P2ANET: A Large-Scale Benchmark for Dense Action Detection from Table Tennis Match Broadcasting Videos". \
-One Paragraph about data description goes here. You can also state why this data was collected.
+P2ANET dataset is proposed in the paper "P2ANET: A Large-Scale Benchmark for Dense Action Detection from Table Tennis Match Broadcasting Videos". [Source]
 
 ## About Data collection methodology
 
@@ -62,14 +61,8 @@ If the data includes images or audio, you can mention the file format eg.(.svg, 
  -->
 ## Online Repository link
 
-* [DataRepository](百度网盘链接) - Link to the data repository.
-
-## Authors
-
-* **authorname** - *Initial work* - [shashvatshah9](https://github.com/shashvatshah9)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* [百度网盘](百度网盘链接) 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
