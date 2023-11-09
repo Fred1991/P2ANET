@@ -15,7 +15,7 @@ There are two identical datasets: the original dataset and the processed dataset
 
 ```
 P2A_dataset/
-    -origin_dataset/
+    -dataset/
         -video/
             -v1/
                 -0000000.mp4
@@ -29,11 +29,6 @@ P2A_dataset/
             -v1.json
             -v2.json
         -proj.json # Contains the mapping relationship between the original video name and the id name
-        
-    -processed_dataset/
-        -0000000.hdf5
-        -0000001.hdf5
-    -...
 ```
 ### The usage of processed_dataset.
 ```
