@@ -30,30 +30,7 @@ P2A_dataset/
             -v2.json
         -proj.json # Contains the mapping relationship between the original video name and the id name
 ```
-### The usage of processed_dataset.
-```
-import h5py
-f = h5py.File('/bosfs/wangtao/TableTennis/0000033.hdf5', "r")
-dset = f[[k for k in f.keys()][0]]
 
-# extracted frames
-print(dset.shape) 
-(18, 1080, 1920, 3)
-
-# label
-print([(k,v) for k, v in dset.attrs.items()])
-# [('end', 3189), ('name', '7月27日晚场2'), ('start', 3171), ('动作类型', 0), ('发球', 0), ('正反手', 0)]
-```
-
-
-<!--
-### And file formats
-
-If the data includes images or audio, you can mention the file format eg.(.svg, .png, .mpeg).
-```
--500 images, format svg.
-```
- -->
 ## Online Repository link
 
 * [Baidu Wangpan](https://pan.baidu.com/s/11YT1P8UyronKKxodhsRqoQ)  KEY: P2AN
