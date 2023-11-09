@@ -35,7 +35,7 @@ P2A_dataset/
         -0000001.hdf5
     -...
 ```
-### the usage of processed_dataset.
+### The usage of processed_dataset.
 ```
 import h5py
 f = h5py.File('/bosfs/wangtao/TableTennis/0000033.hdf5', "r")
