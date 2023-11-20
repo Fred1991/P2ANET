@@ -33,7 +33,7 @@ P2A_dataset/
 
 ## Online Repository link
 
-* [Baidu Wangpan](https://pan.baidu.com/s/11YT1P8UyronKKxodhsRqoQ)  KEY: P2AN
+* [Baidu Wangpan](https://pan.baidu.com/s/11YT1P8UyronKKxodhsRqoQ)  KEY: please apply the KEY via email (bj911125@outlook.com).
 
 ## License
 
