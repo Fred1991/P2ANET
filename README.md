@@ -2,7 +2,7 @@
 
 A temporary repo for the P2ANET dataset. P2ANET dataset is proposed in the following paper. 
 
-Bian, Jiang, Xuhong Li, Tao Wang, Qingzhong Wang, Jun Huang, Chen Liu, Jun Zhao, Feixiang Lu, Dejing Dou, and Haoyi Xiong. "P2ANet: A Large-Scale Benchmark for Dense Action Detection from Table Tennis Match Broadcasting Videos." ACM Transactions on Multimedia Computing, Communications and Applications (2023). [PDF](https://dl.acm.org/doi/pdf/10.1145/3633516) [arXiv](https://arxiv.org/abs/2209.08716)
+Bian, Jiang, Xuhong Li, Tao Wang, Qingzhong Wang, Jun Huang, Chen Liu, Jun Zhao, Feixiang Lu, Dejing Dou, and Haoyi Xiong. "P2ANet: A Large-Scale Benchmark for Dense Action Detection from Table Tennis Match Broadcasting Videos." ACM Transactions on Multimedia Computing, Communications and Applications (2023). [PDF](https://dl.acm.org/doi/pdf/10.1145/3633516) 
 
 ## About Data collection methodology
 
