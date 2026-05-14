@@ -1,3 +1,5 @@
+> **Maintenance Notice:** This repository is **no longer under active maintenance**. The dataset currently available via **Baidu Wangpan** is an **archived and deprecated version**. Please note that its **integrity, availability, and quality are not guaranteed**.
+
 # About Dataset
 
 A temporary repo for the P2ANET dataset. P2ANET dataset is proposed in the following paper. 
