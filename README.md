@@ -1,5 +1,7 @@
 > **Maintenance Notice:** This repository is **no longer under active maintenance**. The dataset currently available via **Baidu Wangpan** is an **archived and deprecated version**. Please note that its **integrity, availability, and quality are not guaranteed**.
 
+> **News:** You can refer to this repository: https://github.com/PaddlePaddle/PaddleVideo/tree/develop/applications/TableTennis/ActionRecognition, which contains the related information you may need.
+
 # About Dataset
 
 A temporary repo for the P2ANET dataset. P2ANET dataset is proposed in the following paper. 
